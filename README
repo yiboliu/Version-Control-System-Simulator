@@ -1,0 +1,5 @@
+This is a simulator of Version Control System, which implements main functions of Github, such as add files, remove files and modify files.
+The main class is contained in the file VersionControlApp.java. Users can log in and check out a recopy of a repository and do as many changes as intended to it.
+After done with the changes, the user can check in the repocopy to a queue of changeSet of the repository. 
+The owner are able to determine whether the changeSet is to be passed and applied to the repository.
+Every user are able to create repositories, pass changes done by other users or reply to older versions if he/she wants to.
